@@ -46,7 +46,7 @@ author:
       url: "mailto:rafael.serrano@ub.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://rafserqui.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rafserqui"
@@ -102,6 +102,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  math_engine: mathjax
   input: GFM
   hard_wrap: false
   auto_ids: true
