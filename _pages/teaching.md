@@ -21,8 +21,6 @@ permalink: /teaching/
 
 ### Resources
 
-- MATLAB
-  - [GitHub Repository](https://github.com/rafserqui/matlab-intro)
+- [Introduction to MATLAB GitHub Repository](https://github.com/rafserqui/matlab-intro)
 
-- Math Camp
-  - [GitHub Repository](https://github.com/rafserqui/math-camp)
+- [Math Camp GitHub Repository](https://github.com/rafserqui/math-camp)
