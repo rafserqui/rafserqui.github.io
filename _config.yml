@@ -22,6 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 domain                   : rafserqui.github.io
 url                      : https://rafserqui.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" 
 name                     : "Rafael Serrano-Quintero"
+google_analytics         : UA-111441615-2
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
