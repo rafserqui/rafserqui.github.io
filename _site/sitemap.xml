@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/cv/</loc>
+<loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/research/</loc>
+<loc>http://localhost:4000/research/</loc>
 </url>
 <url>
-<loc>/teaching/</loc>
+<loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
-<loc>/assets/rmarkdown-test.html</loc>
-<lastmod>2021-02-26T15:46:00+01:00</lastmod>
+<loc>http://localhost:4000/assets/rmarkdown-test.html</loc>
+<lastmod>2022-06-23T10:47:43+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/google2773b3bd82e0fa32.html</loc>
+<lastmod>2022-06-23T10:47:43+02:00</lastmod>
 </url>
 </urlset>

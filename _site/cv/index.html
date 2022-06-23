@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.22.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -21,7 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Rafael Serrano-Quintero">
 <meta property="og:title" content="CV">
-<meta property="og:url" content="/cv/">
+<meta property="og:url" content="http://localhost:4000/cv/">
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-<link rel="canonical" href="/cv/">
+<link rel="canonical" href="http://localhost:4000/cv/">
 
 
 
@@ -46,10 +46,11 @@
     
       "@type": "Person",
       "name": "Rafael Serrano-Quintero",
-      "url": "/"
+      "url": "http://localhost:4000/"
     
   }
 </script>
+
 
 
 
@@ -72,22 +73,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -111,17 +99,12 @@
 
   <body class="layout--single wide">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
     <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
   </ul>
 </nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
 
     
 
@@ -157,6 +140,8 @@
 
     <div class="initial-content">
       
+
+
 
 
 
@@ -206,7 +191,7 @@
           
         
           
-            <li><a href="https://your-website.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+            <li><a href="https://rafserqui.github.io" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
           
         
           
@@ -217,13 +202,6 @@
 
       
 
-      
-        <li>
-          <a href="mailto:rafael.serrano@ub.edu">
-            <meta itemprop="email" content="rafael.serrano@ub.edu" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
-          </a>
-        </li>
       
 
       
@@ -282,7 +260,7 @@
 
 <div class="author__content">
     
-    <div class="author__address" itemprop="description"> <br><strong>Address: </strong> <p style="text-align: left;"><p>Universitat de Barcelona <br /> School of Economics <br /> Avinguda Diagonal 690, <br /> 08034 <br /> Barcelona, Spain</p>
+    <div class="author__address" itemprop="description"> <br><strong>Address: </strong> <p style="text-align: left;"><p>Universitat de Barcelona <br /> School of Economics <br /> Avinguda Diagonal 696, <br /> 08034 <br /> Barcelona, Spain</p>
 </p>
     </div>
     
@@ -294,7 +272,7 @@
 </div>
 
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="CV">
     
     
@@ -303,15 +281,17 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">CV
-</h1>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="http://localhost:4000/cv/" class="u-url" itemprop="url">CV
+</a>
+          </h1>
           
 
 
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
         <p>You can download a PDF version of my CV <a href="https://drive.google.com/file/d/1YZCvbrGawOMs0zaEWNLFGeMxCoVxLGPN/view?usp=sharing">here</a>.</p>
 
