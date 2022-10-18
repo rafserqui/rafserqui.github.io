@@ -18,5 +18,6 @@ permalink: /teaching/
 
 ### Resources
 
+- [Material for Macroeconomics II](https://github.com/rafserqui/macro_ub/)
 - [Introduction to MATLAB GitHub Repository](https://github.com/rafserqui/matlab-intro)
 - [Math Camp GitHub Repository](https://github.com/rafserqui/math-camp)
