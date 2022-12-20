@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working Papers
 
-**[Reforms in the Natural Gas Sector and Economic Development: A General Equilibrium Analysis](https://drive.google.com/file/d/1jT735K85HIWEbTRcYwsrscjvZbUMWXaM/view)** 
+**[Reforms in the Natural Gas Sector and Economic Development: A General Equilibrium Analysis](https://drive.google.com/file/d/1jT735K85HIWEbTRcYwsrscjvZbUMWXaM/view)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R Economic Modelling)*</span> </small> 
 <small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
 
 <small>[ <a href="#" onclick="toggle_visibility('ldcs-brazil')">Abstract</a> ] </small>
@@ -14,7 +14,7 @@ permalink: /research/
 This paper investigates how changes to the market structure in the natural gas production sector would impact natural gas local distribution companies (LDCs) and regional economies over time. We develop a dynamic general equilibrium model with a monopolistic supply of natural gas by an LDC that faces a capacity constraint that can be changed via investments. We incorporate two types of capital that differ in the energy they use to be powered. The production sector uses capital services from different energy sources and labor. We calibrate the model to 12 major Brazilian LDCs to explore the effects of a reduction in the price of natural gas. We find that a 5% reduction in the price of natural gas leads to significant increases in natural gas consumption, with a median value of 80% across LDCs. We distinguish between short and long-run effects and find that long-run effects are significantly mitigated when the price of other energy sources also falls. We find heterogeneous responses of regional GDP with a median increase of 0.1% in one year that falls to 0.02% in the long run.
 </small><br><br/></div>
 
-**[The Aggregate Productivity Slowdown: A System Approach](https://drive.google.com/file/d/1er96jG0-nQHNVmvqccYtTAKIygHTcYQ2/view?usp=sharing)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R Economics Letters)*</span> </small>
+**[The Aggregate Productivity Slowdown: A System Approach](https://drive.google.com/file/d/1er96jG0-nQHNVmvqccYtTAKIygHTcYQ2/view?usp=sharing)** <small> <span style="color:#cb4b16;text-decoration:underline">*(Accepted Economics Letters)*</span> </small>
 
 <small>[ <a href="#" onclick="toggle_visibility('slowdown_ces')">Abstract</a> ] </small>
 
