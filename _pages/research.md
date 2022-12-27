@@ -3,6 +3,18 @@ title: Research
 permalink: /research/
 ---
 
+## Publications
+
+
+**[The Aggregate Productivity Slowdown: A System Approach](https://www.sciencedirect.com/science/article/pii/S0165176522004463)** <span style="text-decoration:underline">***Economics Letters***</span> (Forthcoming)
+
+<small>[ <a href="#" onclick="toggle_visibility('slowdown_ces')">Abstract</a> ] </small>
+
+<div id="slowdown_ces" style="display: none; text-align: justify; line-height: 1" ><small>
+I revisit the productivity slowdown debate by estimating the capital-labor elasticity and the bias of technical change for the U.S. economy under four different models of technical change. One with constant growth rates, one with a structural break in the constant growth rates, one in which growth is linear, and one with flexible time-varying growth rates. I find evidence in support of non-constant growth rates of factor-augmenting technical change. Labor-augmenting technical change growth rates are decelerating, while capital-augmenting technical change is non negligible but vanishes quickly.
+</small><br><br/></div>
+
+
 ## Working Papers
 
 **[Reforms in the Natural Gas Sector and Economic Development: A General Equilibrium Analysis](https://drive.google.com/file/d/1jT735K85HIWEbTRcYwsrscjvZbUMWXaM/view)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R Economic Modelling)*</span> </small> 
@@ -12,14 +24,6 @@ permalink: /research/
 
 <div id="ldcs-brazil" style="display: none; text-align: justify; line-height: 1" ><small>
 This paper investigates how changes to the market structure in the natural gas production sector would impact natural gas local distribution companies (LDCs) and regional economies over time. We develop a dynamic general equilibrium model with a monopolistic supply of natural gas by an LDC that faces a capacity constraint that can be changed via investments. We incorporate two types of capital that differ in the energy they use to be powered. The production sector uses capital services from different energy sources and labor. We calibrate the model to 12 major Brazilian LDCs to explore the effects of a reduction in the price of natural gas. We find that a 5% reduction in the price of natural gas leads to significant increases in natural gas consumption, with a median value of 80% across LDCs. We distinguish between short and long-run effects and find that long-run effects are significantly mitigated when the price of other energy sources also falls. We find heterogeneous responses of regional GDP with a median increase of 0.1% in one year that falls to 0.02% in the long run.
-</small><br><br/></div>
-
-**[The Aggregate Productivity Slowdown: A System Approach](https://drive.google.com/file/d/1er96jG0-nQHNVmvqccYtTAKIygHTcYQ2/view?usp=sharing)** <small> <span style="color:#cb4b16;text-decoration:underline">*(Accepted Economics Letters)*</span> </small>
-
-<small>[ <a href="#" onclick="toggle_visibility('slowdown_ces')">Abstract</a> ] </small>
-
-<div id="slowdown_ces" style="display: none; text-align: justify; line-height: 1" ><small>
-I revisit the productivity slowdown debate by estimating the capital-labor elasticity and the bias of technical change for the U.S. economy under four different models of technical change. One with constant growth rates, one with a structural break in the constant growth rates, one in which growth is linear, and one with flexible time-varying growth rates. I find evidence in support of non-constant growth rates of factor-augmenting technical change. Labor-augmenting technical change growth rates are decelerating, while capital-augmenting technical change is non negligible but vanishes quickly.
 </small><br><br/></div>
 
 **[Structural transformation in India: The Role of the Service Sector](https://drive.google.com/file/d/1g89fQmk9zgoXdgF2FxcpOjCy74qF-c0n/view)** <small> <span style="text-decoration:underline">*(Job Market Paper)*</span> </small> 
