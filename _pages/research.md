@@ -5,8 +5,7 @@ permalink: /research/
 
 ## Publications
 
-
-**[The Aggregate Productivity Slowdown: A System Approach](https://www.sciencedirect.com/science/article/pii/S0165176522004463)** <span style="text-decoration:underline">***Economics Letters***</span> (Forthcoming)
+**[The Aggregate Productivity Slowdown: A System Approach](https://www.sciencedirect.com/science/article/pii/S0165176522004463)** <span style="text-decoration:underline">***Economics Letters***</span> 2023.
 
 <small>[ <a href="#" onclick="toggle_visibility('slowdown_ces')">Abstract</a> ] </small>
 
@@ -14,16 +13,24 @@ permalink: /research/
 I revisit the productivity slowdown debate by estimating the capital-labor elasticity and the bias of technical change for the U.S. economy under four different models of technical change. One with constant growth rates, one with a structural break in the constant growth rates, one in which growth is linear, and one with flexible time-varying growth rates. I find evidence in support of non-constant growth rates of factor-augmenting technical change. Labor-augmenting technical change growth rates are decelerating, while capital-augmenting technical change is non negligible but vanishes quickly.
 </small><br><br/></div>
 
-
 ## Working Papers
 
-**[Reforms in the Natural Gas Sector and Economic Development: A General Equilibrium Analysis](https://drive.google.com/file/d/1jT735K85HIWEbTRcYwsrscjvZbUMWXaM/view)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R Economic Modelling)*</span> </small> 
+**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://drive.google.com/file/d/1FUnWQAS1xATfimco0b6xGnY4L2d20YRI/view)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R - Latin American Economic Review)*</span> </small>
+<small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
+
+<small>[ <a href="#" onclick="toggle_visibility('ldcs-privatization')">Abstract</a> ] </small>
+
+<div id="ldcs-privatization" style="display: none; text-align: justify; line-height: 1" ><small>
+A broad literature highlights efficiency gains due to cost reduction after privatizations in the energy sector. However, to the best of our knowledge, this literature does not develop general equilibrium models, which are fundamental to account for post-privatization gains from a regional perspective. This paper evaluates the increase in efficiency necessary to make the privatization of a natural gas local distribution company (LDC) worthwhile in a state-level fiscal sense. We propose a general equilibrium model representing a regional economy supplied by a monopolistic LDC, whose ownership is shared between the private sector and federal and state governments. The model is calibrated for 13 of the major Brazilian LDCs using their financial and operational data, as well as regional economic data. We find that the necessary unit cost reduction varies between LDCs, with a median value of 4.4% and values ranging from 0.2% to 22.9%.
+</small><br><br/></div>
+
+**[Reforms in the Natural Gas Sector and Economic Development](https://drive.google.com/file/d/1UlRppq-cDkcPNex35OAQy5clhv8yz5eU/view?usp=sharing)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R - Economic Modelling)*</span> </small> 
 <small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
 
 <small>[ <a href="#" onclick="toggle_visibility('ldcs-brazil')">Abstract</a> ] </small>
 
 <div id="ldcs-brazil" style="display: none; text-align: justify; line-height: 1" ><small>
-This paper investigates how changes to the market structure in the natural gas production sector would impact natural gas local distribution companies (LDCs) and regional economies over time. We develop a dynamic general equilibrium model with a monopolistic supply of natural gas by an LDC that faces a capacity constraint that can be changed via investments. We incorporate two types of capital that differ in the energy they use to be powered. The production sector uses capital services from different energy sources and labor. We calibrate the model to 12 major Brazilian LDCs to explore the effects of a reduction in the price of natural gas. We find that a 5% reduction in the price of natural gas leads to significant increases in natural gas consumption, with a median value of 80% across LDCs. We distinguish between short and long-run effects and find that long-run effects are significantly mitigated when the price of other energy sources also falls. We find heterogeneous responses of regional GDP with a median increase of 0.1% in one year that falls to 0.02% in the long run.
+This paper investigates the short and long run effects of increased competition in the provision of natural gas. We build a dynamic general equilibrium model with monopolistic distribution of natural gas and calibrate it to 12 major Brazilian local distribution companies. We find that reductions in the price of natural gas can lead to sustained and significant increases of natural gas in the energy mix. A 5% reduction in the price of natural gas leads to a median increase in the consumption of natural gas of 5.5% and moderate GDP gains between 0.03% and 0.16%. Our model highlights mechanisms for energy transitions showing that moderate declines in natural gas prices can lead to sustained long-run increases in the share of natural gas consumption.
 </small><br><br/></div>
 
 **[Structural transformation in India: The Role of the Service Sector](https://drive.google.com/file/d/1g89fQmk9zgoXdgF2FxcpOjCy74qF-c0n/view)** <small> <span style="text-decoration:underline">*(Job Market Paper)*</span> </small> 
