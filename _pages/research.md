@@ -24,7 +24,7 @@ I revisit the productivity slowdown debate by estimating the capital-labor elast
 
 ## Working Papers
 
-**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://drive.google.com/file/d/162De5p77aUmZkjvl3uHXJOK-2K4D7-x3/view?usp=drive_link)** <small> <span style="color:#cb4b16;text-decoration:underline">*(R&R - Latin American Economic Review)*</span> </small>
+**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://drive.google.com/file/d/162De5p77aUmZkjvl3uHXJOK-2K4D7-x3/view?usp=drive_link)** <small> <span style="color:#cb4b16;text-decoration:underline">*(Latin American Economic Review - Accepted)*</span> </small>
 <small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
 
 <small>[ <a href="#" onclick="toggle_visibility('ldcs-privatization')">Abstract</a> ] </small>
