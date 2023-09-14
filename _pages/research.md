@@ -5,6 +5,15 @@ permalink: /research/
 
 ## Publications
 
+**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://ojs.latinaer.org/laer/article/view/199)** <span style="text-decoration:underline">*Latin American Economic Review*</span>, 2023.
+<small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
+
+<small>[ <a href="#" onclick="toggle_visibility('ldcs-privatization')">Abstract</a> ] </small>
+
+<div id="ldcs-privatization" style="display: none; text-align: justify; line-height: 1" ><small>
+A broad literature highlights efficiency gains due to cost reduction after privatizations in the energy sector. However, to the best of our knowledge, this literature does not develop general equilibrium models, which are fundamental to account for post-privatization gains from a regional perspective. This paper evaluates the increase in efficiency necessary to make the privatization of a natural gas local distribution company (LDC) worthwhile in a state-level fiscal sense. We propose a general equilibrium model representing a regional economy supplied by a monopolistic LDC, whose ownership is shared between the private sector and federal and state governments and calibrate it for 13 of the major Brazilian LDCs. We find that the necessary unit cost reduction varies substantially across LDCs and depends on the level of underpricing when the asset is sold. The necessary unitary cost reductions range from 1.6\% to 64\% when we consider the median level of underpricing found in the literature.
+</small><br><br/></div>
+
 **[Reforms in the Natural Gas Sector and Economic Development](https://authors.elsevier.com/sd/article/S0264-9993(23)00170-0)** <span style="text-decoration:underline">*Economic Modelling*</span>, 2023.
 <small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
 
@@ -23,15 +32,6 @@ I revisit the productivity slowdown debate by estimating the capital-labor elast
 </small><br><br/></div>
 
 ## Working Papers
-
-**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://drive.google.com/file/d/162De5p77aUmZkjvl3uHXJOK-2K4D7-x3/view?usp=drive_link)** <small> <span style="color:#cb4b16;text-decoration:underline">*(Latin American Economic Review - Accepted)*</span> </small>
-<small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
-
-<small>[ <a href="#" onclick="toggle_visibility('ldcs-privatization')">Abstract</a> ] </small>
-
-<div id="ldcs-privatization" style="display: none; text-align: justify; line-height: 1" ><small>
-A broad literature highlights efficiency gains due to cost reduction after privatizations in the energy sector. However, to the best of our knowledge, this literature does not develop general equilibrium models, which are fundamental to account for post-privatization gains from a regional perspective. This paper evaluates the increase in efficiency necessary to make the privatization of a natural gas local distribution company (LDC) worthwhile in a state-level fiscal sense. We propose a general equilibrium model representing a regional economy supplied by a monopolistic LDC, whose ownership is shared between the private sector and federal and state governments and calibrate it for 13 of the major Brazilian LDCs. We find that the necessary unit cost reduction varies substantially across LDCs and depends on the level of underpricing when the asset is sold. The necessary unitary cost reductions range from 1.6\% to 64\% when we consider the median level of underpricing found in the literature.
-</small><br><br/></div>
 
 **[Structural transformation in India: The Role of the Service Sector](https://drive.google.com/file/d/1g89fQmk9zgoXdgF2FxcpOjCy74qF-c0n/view)** <small>
 
