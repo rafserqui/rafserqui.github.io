@@ -41,25 +41,26 @@ I revisit the productivity slowdown debate by estimating the capital-labor elast
 Contrary to the experience of industrialized countries, productivity growth of Indian services has been consistently faster than manufacturing. In this paper, I document that (i) the fastest growing industries in services grow faster than in manufacturing; (ii) faster productivity growth in services than in manufacturing is not because of sluggish manufacturing productivity; (iii) the supply of skilled workers in India is skewed towards tertiary education and (iv) the service sector is the most skill intensive; (v) returns to schooling are larger for the high-productivity services. To quantify and rationalize these facts, I construct a multi-sector model of structural change with high and low-skilled workers. The calibrated model suggests that the large supply of high-skill workers combined with higher skill intensity in the service sector seem to be behind the services take-off. The data imply that service sub-sectors are gross substitutes while manufacturing sub-sectors are gross complements. This will accelerate productivity growth in services and decelerate productivity growth in manufacturing.
 </small><br><br/></div>
 
-## Work in Progress
-
-**Spatial Complementarities in Public Infrastructure and Structural Transformation in Brazil** <small>*(Draft available upon request)*</small> 
-<small> Joint with [Fidel Pérez-Sebastián](http://fae.ua.es/FAEX/perez-sebastianfidel/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </small>
-
-<small>[ <a href="javascript:void();" onclick="toggle_visibility('brazil-spatial')">Abstract</a> ] </small>
-
-<div id="brazil-spatial" style="display: none; text-align: justify; line-height: 1" ><small>
-We ask how much of the spatial evolution of structural transformation can be attributed to electrification and transportation improvements. We model jointly the endogenous evolution of transport and electricity networks in a multi-sector quantitative economic geography model for the case of Brazil. In our model, the government chooses infrastructure investments to maximize welfare. One key aspect is that sectoral TFPs are determined partly by roads access and electricity quality, the underlying assumption being that electricity access allows for a new menu of technologies that were not available before. Furthermore, firms can employ electricity as a production input which allows for differential sectoral impact of electricity use. We estimate the sectoral TFPs elasticities with respect to population density, quality of electricity, and quality of roads. We find these to be the largest in services. Agriculture and manufacturing benefit more from the quality of electricity rather than from agglomeration or quality of roads.
-</small><br><br/></div>
-
-**An Economic Geography Model of COVID-19 for Europe** 
+**[The Economic Linkages of Covid-19 Across Sectors and Regions in the UK](https://drive.google.com/file/d/1K3hs8RNPWjQRBUIqs9Sat2IUfXRNU5UW/view?usp=drive_link)** 
 <small>Joint with [Fidel Pérez-Sebastián](http://fae.ua.es/FAEX/perez-sebastianfidel/)</small>
 
 <small>[ <a href="javascript:void();" onclick="toggle_visibility('covid-spatial')">Abstract</a> ] </small>
 
 <div id="covid-spatial" style="display: none; text-align: justify; line-height: 1" ><small>
-We study the spatial dynamics of COVID-19 through the lens of an epidemiological model incorporated into a multi-sector economic geography model that allows for trade in intermediate goods. The model proceeds in two phases. During the first phase, in each location and moment of time, the population structure (susceptible, infected, resolving, recovered, dead) is taken as given and we solve for the spatial distribution of economic activity and trade flows. In a second phase, we determine how the population structure evolves as the virus spreads. We extend the epidemiological model to account for endogenously determined spatial linkages. We assume that the number of infected people in a location depends on the number of infected people in the regions that it trades with. Furthermore, since the population structure changes from one day to the next, we assume that the workforce is affected by the number of deaths. In the model, each region and sector pair uses intermediate inputs from other sectors which generates an amplification mechanism of regional specific policies. We study how social distancing through telematic work and regional specific lockdown policies affect the spread and prevalence of the disease and their economic impact. We find that regional-specific lockdowns based on the local incidence of the disease are the most successful in saving lives and reducing the impact on the economy.
+This paper builds a spatial model of trade with supply-chain links to try to understand the effect of economic links and policies on the spread of the Covid-19 pandemic during the first wave across NUTS2 UK regions. We find that the fight to reduce infection rates was more successful in the UK than in the European Union. Our results imply that without the policy reaction in Europe, the number of deaths during the first wave of the pandemic would have been about 4,400,000 larger in the European Union and about 1,217,000 higher in the UK, and that these benefits vary greatly across UK regions. Comparing the effects of the policies implemented in the EU27 and in the UK, we estimate that, in the absence of European-Union’s anti-Covid-19 measures, the number of deaths in the UK would have been an 80% larger; and that UK anti-Covid-19 measures saved about 50,000 lives in the European Union and 1,200,000 lives in the UK.
 </small><br><br/></div>
+
+## Work in Progress
+
+**Spatial Misallocation of Complementary Infrastructure Investment: Evidence from Brazil** <small>*(Draft available upon request)*</small> 
+<small> Joint with [Fidel Pérez-Sebastián](http://fae.ua.es/FAEX/perez-sebastianfidel/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </small>
+
+<small>[ <a href="javascript:void();" onclick="toggle_visibility('brazil-spatial')">Abstract</a> ] </small>
+
+<div id="brazil-spatial" style="display: none; text-align: justify; line-height: 1" ><small>
+How is the spatial development of economic activity affected by the misallocation of complementary public capital? To answer this question, we model jointly the endogenous evolution of transport and electricity networks in a multi-sector quantitative spatial general-equilibrium model where sectoral productivities are affected by the quality of both infrastructure types. Simulation results for the Brazilian economy point to large welfare gains from reallocating infrastructure investment. Spatial and fiscal complementarities in heterogeneous infrastructure provision determine a sizeable part of the those gains. Spatial misallocation of both infrastructure investments is positively associated with local political support for the incumbent authority. 
+</small><br><br/></div>
+
 
 
 <script type="text/javascript">
