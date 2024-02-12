@@ -50,9 +50,7 @@ Contrary to the experience of industrialized countries, productivity growth of I
 This paper builds a spatial model of trade with supply-chain links to try to understand the effect of economic links and policies on the spread of the Covid-19 pandemic during the first wave across NUTS2 UK regions. We find that the fight to reduce infection rates was more successful in the UK than in the European Union. Our results imply that without the policy reaction in Europe, the number of deaths during the first wave of the pandemic would have been about 4,400,000 larger in the European Union and about 1,217,000 higher in the UK, and that these benefits vary greatly across UK regions. Comparing the effects of the policies implemented in the EU27 and in the UK, we estimate that, in the absence of European-Union’s anti-Covid-19 measures, the number of deaths in the UK would have been an 80% larger; and that UK anti-Covid-19 measures saved about 50,000 lives in the European Union and 1,200,000 lives in the UK.
 </small><br><br/></div>
 
-## Work in Progress
-
-**Spatial Misallocation of Complementary Infrastructure Investment: Evidence from Brazil** <small>*(Draft available upon request)*</small> 
+**[Spatial Misallocation of Complementary Infrastructure Investment: Evidence from Brazil](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099822112182319219/idu009479c3106f960481d0b85a02738d5c6f7aa)**
 <small> Joint with [Fidel Pérez-Sebastián](http://fae.ua.es/FAEX/perez-sebastianfidel/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </small>
 
 <small>[ <a href="javascript:void();" onclick="toggle_visibility('brazil-spatial')">Abstract</a> ] </small>
@@ -60,8 +58,6 @@ This paper builds a spatial model of trade with supply-chain links to try to und
 <div id="brazil-spatial" style="display: none; text-align: justify; line-height: 1" ><small>
 How is the spatial development of economic activity affected by the misallocation of complementary public capital? To answer this question, we model jointly the endogenous evolution of transport and electricity networks in a multi-sector quantitative spatial general-equilibrium model where sectoral productivities are affected by the quality of both infrastructure types. Simulation results for the Brazilian economy point to large welfare gains from reallocating infrastructure investment. Spatial and fiscal complementarities in heterogeneous infrastructure provision determine a sizeable part of the those gains. Spatial misallocation of both infrastructure investments is positively associated with local political support for the incumbent authority. 
 </small><br><br/></div>
-
-
 
 <script type="text/javascript">
    function toggle_visibility(id) {
