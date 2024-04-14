@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Publications
 
-**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://ojs.latinaer.org/laer/article/view/199)** <span style="text-decoration:underline">*Latin American Economic Review*</span>, 2023.
+**[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://www.latinaer.org/index.php/laer/article/view/199)** <span style="text-decoration:underline">*Latin American Economic Review*</span>, 2023.
 <small> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </small>
 
 <small>[ <a href="#" onclick="toggle_visibility('ldcs-privatization')">Abstract</a> ] </small>
