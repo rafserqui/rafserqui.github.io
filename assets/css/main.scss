@@ -5,10 +5,10 @@
 @charset "utf-8";
 
 // Background, footer, text, and link colors
-$link-color: #5aaecf;
+$link-color: #00569b;
 $background-color: #FFFFFF;
 $text-color: #323232;
-$footer-background-color: #fab500;
+$footer-background-color: #0072CE;
 $masthead-link-color: #706359;
 
 // Syntax highlighting
@@ -48,5 +48,5 @@ html {
         font-size: 17px; // change to whatever
     }
 
-  $global-font-family: 'Roboto', sans-serif;
+    $global-font-family: "Noto Sans", sans-serif;
 }
