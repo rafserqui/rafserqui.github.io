@@ -46,7 +46,7 @@ Contrary to the experience of industrialized countries, productivity growth of I
 </span><br><br/></div>
 
 **[The Economic Linkages of Covid-19 Across Sectors and Regions in the UK](https://drive.google.com/file/d/1K3hs8RNPWjQRBUIqs9Sat2IUfXRNU5UW/view?usp=drive_link)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(R&R SERIEs)*</span> </span> 
-<span style="font-size:0.85em">Joint with [Fidel Pérez-Sebastián](http://fae.ua.es/FAEX/perez-sebastianfidel/)</span>
+<span style="font-size:0.85em">Joint with [Fidel Pérez-Sebastián](https://sites.google.com/view/fidel-perez-sebastian/)</span>
 <span>[ <a href="javascript:void();" onclick="toggle_visibility('covid-spatial')">Abstract</a> ] </span>
 
 <div id="covid-spatial" style="display: none; text-align: justify; line-height: 1" ><span style="font-size:0.85em">
@@ -54,7 +54,7 @@ This paper builds a spatial model of trade with supply-chain links to try to und
 </span><br><br/></div>
 
 **[Spatial Misallocation of Complementary Infrastructure Investment: Evidence from Brazil](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099822112182319219/idu009479c3106f960481d0b85a02738d5c6f7aa)**
-<span style="font-size:0.85em"> Joint with [Fidel Pérez-Sebastián](http://fae.ua.es/FAEX/perez-sebastianfidel/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </span>
+<span style="font-size:0.85em"> Joint with [Fidel Pérez-Sebastián](https://sites.google.com/view/fidel-perez-sebastian/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </span>
 <span style="font-size:0.85em">[ <a href="javascript:void();" onclick="toggle_visibility('brazil-spatial')">Abstract</a> ] </span>
 
 <div id="brazil-spatial" style="display: none; text-align: justify; line-height: 1" ><span style="font-size:0.85em">
