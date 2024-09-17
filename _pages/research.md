@@ -30,7 +30,7 @@ I revisit the productivity slowdown debate by estimating the capital-labor elast
 
 ## Working Papers
 
-**[Capital Misallocation and Economic Development in a Dynamic Open Economy](https://drive.google.com/file/d/12r-C9WNQXPp5xD2uQjFRZrpmS125fB0-/view?usp=sharing)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(R&R Journal of Economic Dynamics and Control)*</span> </span> 
+**[Capital Misallocation and Economic Development in a Dynamic Open Economy](https://drive.google.com/file/d/12r-C9WNQXPp5xD2uQjFRZrpmS125fB0-/view?usp=sharing)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(Accepted Journal of Economic Dynamics and Control)*</span> </span> 
 <span style="font-size:0.85em"> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home), [Luciene Pereira](https://www.lucienetmpereira.com/), and Heron Rios </span>
 <span style="font-size:0.85em">[ <a href="#" onclick="toggle_visibility('desd-capital')">Abstract</a> ] </span>
 
