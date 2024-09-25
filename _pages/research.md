@@ -5,6 +5,10 @@ permalink: /research/
 
 ## Publications
 
+**[Capital Misallocation and Economic Development in a Dynamic Open Economy](https://www.sciencedirect.com/science/article/pii/S0165188924001611)** <span style="text-decoration:underline">*Journal of Economic Dynamics and Control*</span>, 2024.
+<span style="font-size:0.85em"> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home), [Luciene Pereira](https://www.lucienetmpereira.com/), and Heron Rios </span>
+<span style="font-size:0.75em">[\[WP Version\]](https://drive.google.com/file/d/12r-C9WNQXPp5xD2uQjFRZrpmS125fB0-/view?usp=sharing)</span>
+
 **[Privatization in the Natural Gas Sector: A General Equilibrium Analysis](https://www.latinaer.org/index.php/laer/article/view/199)** <span style="text-decoration:underline">*Latin American Economic Review*</span>, 2023.
 <span style="font-size:0.85em"> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home) and Guilherme Zimmerman </span>
 
@@ -14,9 +18,6 @@ permalink: /research/
 **[The Aggregate Productivity Slowdown: A System Approach](https://www.sciencedirect.com/science/article/pii/S0165176522004463)** <span style="text-decoration:underline">*Economics Letters*</span>, 2023.
 
 ## Working Papers
-
-**[Capital Misallocation and Economic Development in a Dynamic Open Economy](https://drive.google.com/file/d/12r-C9WNQXPp5xD2uQjFRZrpmS125fB0-/view?usp=sharing)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(Accepted Journal of Economic Dynamics and Control)*</span> </span> 
-<span style="font-size:0.85em"> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home), [Luciene Pereira](https://www.lucienetmpereira.com/), and Heron Rios </span>
 
 [**Spatial Misallocation of Complementary Infrastructure Investment: Evidence from Brazil**](https://drive.google.com/file/d/1R8VT94_044I6O0E8enirVuckr2KhXSo6/view?usp=sharing) 
 <span style="font-size:0.85em"> Joint with [Fidel Pérez-Sebastián](https://sites.google.com/view/fidel-perez-sebastian/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </span>
