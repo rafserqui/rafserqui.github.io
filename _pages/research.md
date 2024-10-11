@@ -21,7 +21,9 @@ permalink: /research/
 
 [**Spatial Misallocation of Complementary Infrastructure Investment: Evidence from Brazil**](https://drive.google.com/file/d/1R8VT94_044I6O0E8enirVuckr2KhXSo6/view?usp=sharing) 
 <span style="font-size:0.85em"> Joint with [Fidel Pérez-Sebastián](https://sites.google.com/view/fidel-perez-sebastian/) and [Jevgenijs Steinbuks](http://www.steinbuks.info/) </span>
-<span style="font-size:0.75em">[[Previous Version World Bank Policy Research Working Papers](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099822112182319219/idu009479c3106f960481d0b85a02738d5c6f7aa)] </span>
+<span style="font-size:0.75em">[[Previous Version World Bank Policy Research Working Papers](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099822112182319219/idu009479c3106f960481d0b85a02738d5c6f7aa)]  </span>
+<span style="font-size:0.75em">[[WB Blog Post](https://blogs.worldbank.org/en/ppps/what-can-we-learn-from-brazil-about-optimizing-infrastructure-in?CID=WBW_AL_BlogNotification_EN_EXT)] </span>
+
 
 **[Structural Transformation in India: The Role of the Service Sector](https://drive.google.com/file/d/1g89fQmk9zgoXdgF2FxcpOjCy74qF-c0n/view)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(R&R Macroeconomic Dynamics)*</span> </span>
 
