@@ -27,7 +27,7 @@ permalink: /research/
 
 **[Structural Transformation in India: The Role of the Service Sector](https://drive.google.com/file/d/1g89fQmk9zgoXdgF2FxcpOjCy74qF-c0n/view)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(R&R Macroeconomic Dynamics)*</span> </span>
 
-**[The Economic Linkages of Covid-19 Across Sectors and Regions in Europe](https://drive.google.com/file/d/1K3hs8RNPWjQRBUIqs9Sat2IUfXRNU5UW/view?usp=drive_link)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(R&R SERIEs)*</span> </span> 
+**[The Economic Linkages of Covid-19 Across Sectors and Regions in Europe](https://drive.google.com/file/d/1K3hs8RNPWjQRBUIqs9Sat2IUfXRNU5UW/view?usp=drive_link)** <span style="font-size:0.85em"> <span style="font-size:0.85em" style="color:#ff7302;text-decoration:underline">*(Conditionally Accepted SERIEs)*</span> </span> 
 <span style="font-size:0.85em">Joint with [Fidel Pérez-Sebastián](https://sites.google.com/view/fidel-perez-sebastian/)</span>
 
 <script type="text/javascript">
