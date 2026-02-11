@@ -8,6 +8,7 @@ permalink: /research/
 **[The Economic Linkages of Covid-19 Across Sectors and Regions in Europe](https://doi.org/10.1007/s13209-025-00305-0)** <span style="text-decoration:underline">*SERIES: Journal of the Spanish Economic Association*</span>, 2025.
 <span style="font-size:0.95em">Special Issue on Recent Global Shocks: Consequences and Policies</span>
 <span style="font-size:0.85em">Joint with [Fidel Pérez-Sebastián](https://sites.google.com/view/fidel-perez-sebastian/)</span>
+<span style="font-size:0.75em">[[Nada es Gratis](https://nadaesgratis.es/admin/cuando-el-comercio-contagia-vinculos-economicos-y-covid-19-en-europa)] </span>
 
 **[Capital Misallocation and Economic Development in a Dynamic Open Economy](https://www.sciencedirect.com/science/article/pii/S0165188924001611)** <span style="text-decoration:underline">*Journal of Economic Dynamics and Control*</span>, 2024.
 <span style="font-size:0.85em"> Joint with [Bruno R. Delalibera](https://sites.google.com/view/brunodelalibera/home), [Luciene Pereira](https://www.lucienetmpereira.com/), and Heron Rios </span>
